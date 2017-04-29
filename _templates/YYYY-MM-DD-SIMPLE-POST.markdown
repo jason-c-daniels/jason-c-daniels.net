@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Your title here"
-date:   
-categories: 
+title:  "A Test Post"
+date:   2017-04-29 00:37:00 UTC-5  
+categories: Test post
 ---
 
-# Top level header
+## Top level header
 
 First paragraph.
 
-## Second Level Header
+### Second Level Header
 
 Second paragraph.
 
 
-### Third Level Header
+#### Third Level Header
 
 A snippet if needed:
 
@@ -28,4 +28,4 @@ print_hi('Tom')
 
 Check out the [Link Friendly Name][link-ref] for more info on the link!
 
-[link-ref]: http://jekyllrb.com/docs/home
+[link-ref]: http://jason-c-daniels.net/
