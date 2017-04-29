@@ -1,6 +1,7 @@
 ---
 layout: category
 title:  "Gardening"
-category: Gardening
+category: gardening
 permalink: /Gardening/
 ---
+

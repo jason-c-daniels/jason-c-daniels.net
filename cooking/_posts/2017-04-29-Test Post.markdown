@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Dummy Cooking Post"
+date:   2017-04-29 00:52:12 UTC-5    
+categories: electronics
+---
+
+## A Dummy Cooking Post
+This is a sample post that should only appear on the main page and the Cooking page.
