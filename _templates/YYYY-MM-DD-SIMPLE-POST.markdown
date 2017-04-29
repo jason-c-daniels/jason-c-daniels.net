@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Test Post"
-date:   2017-04-29 00:37:00 UTC-5  
+date:   YYYY-MM-DD HH:MM:SS UTC-5  
 categories: Test post
 ---
 

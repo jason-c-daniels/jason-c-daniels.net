@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Your title here"
-date:   2017-04-29 00:37 Central  
+date:   2017-04-29 00:52:12 UTC-5    
 categories: Test post
 ---
 
