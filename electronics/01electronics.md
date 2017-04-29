@@ -1,6 +1,6 @@
 ---
 layout: category
 title:  "Electronics"
-category: Electronics
-permalink: /Electronics/
+category: electronics
+permalink: /electronics/
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Your title here"
+title:  "A Dummy Multicategory Post"
 date:   2017-04-29 00:52:12 UTC-5    
-categories: cooking gardening
+categories: gardening cooking
 ---
 
-## A Dummy Electronics Post
+## A Dummy Multicategory Post
 dummy file that should appear in two category indexes.
