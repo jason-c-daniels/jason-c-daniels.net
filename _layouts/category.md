@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
-<h1>B</h1>
+
+<h1>{{ page.title }}</h1>
 
 {% unless page.content == '' %}
-  <p>{{ page.content }}</p>
+  {{ page.content }}
 {% endunless %}
-
+<p/><p/>
 {% for post in site.categories.[page.category] %}
+  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   {{ post.excerpt }}
 {% endfor %}

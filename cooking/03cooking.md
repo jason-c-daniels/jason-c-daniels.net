@@ -2,5 +2,5 @@
 layout: category
 title:  "Cooking"
 category: cooking
-permalink: /Cooking/
+permalink: /cooking/
 ---

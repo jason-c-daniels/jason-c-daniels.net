@@ -5,6 +5,9 @@ date:   2017-04-29 00:00:00 UTC-5
 categories: github
 ---
 
-## EBNF-PARSER
+A parser builder library with an EBNF-like syntax parser to, you guessed it, build a parser in memory, complete with a winforms test app. Trying to track down sample EBNF files.
 
-TBD
+TBD: More information will be added later.
+
+You can find the source code for this project at:
+{% include icon-github.html username="jason-c-daniels" %}/[ebnf-parser](https://github.com/jason-c-daniels/ebnf-parser/)

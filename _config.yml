@@ -10,7 +10,7 @@ title: Jason C Daniels.net
 email: jason.c.daniels@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my little home on the internet. I plan on posting programming and
-  electronics projects here. Please the spartan appearance while I get this up
+  electronics projects here. Please forgive the spartan appearance while I get this up
   and running.
 baseurl: ""# the subpath of your site, e.g. /blog
 url: "http://jason-c-daniels.net" # the base hostname & protocol for your site
