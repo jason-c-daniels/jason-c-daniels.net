@@ -1,0 +1,32 @@
+#!/usr/bin/ruby
+require "#{File.dirname(__FILE__)}/shared/util"
+require "#{File.dirname(__FILE__)}/shared/program"
+
+APP_VERSION="1.0.0-alpha"
+APP_NAME=File.basename(__FILE__)
+APP_USAGE="usage:
+      #{APP_NAME} \"page title\" <sequence-num>
+
+      * \"page title\" - The title of the new page. [required]
+
+      * <sequence-num> - The user defined sequence. [optional]
+                         This is set only when you know of an item you want to be first, or last. 
+                         (99 is last. 0 is first.)
+
+
+
+"
+
+class Application < Program::Application
+   def valid_args?
+      return ARGV.length >0 && ARGV.length <=2
+   end
+   def main
+      site_dir=Util::getSiteDir
+      puts site_dir
+      puts Util::getCanonicalFileSystemName(ARGV[0])
+      puts Util::getCanonicalTitle(ARGV[0])
+   end
+end
+
+Application.new.execute

@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "A Test Post"
-date:   YYYY-MM-DD HH:MM:SS UTC-5  
-categories: Test post
+layout: page
+title:  "PAGE Title"
+permalink: /PAGE/
 ---
 
 ## Top level header
