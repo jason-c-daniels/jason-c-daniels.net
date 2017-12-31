@@ -1,7 +1,7 @@
 ---
-layout: category
-title:  "A Page"
-category: Test
+layout: page
+title:  "PAGE Title"
+permalink: /PAGE/
 ---
 
 ## Top level header

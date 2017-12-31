@@ -1,0 +1,14 @@
+#!/usr/bin/ruby
+require "#{File.dirname(__FILE__)}/shared/util"
+if ARGV.length >0 && ARGV.length <=2
+   puts Util::getCanonicalFileSystemName(ARGV[0])
+   puts Util::getCanonicalTitle(ARGV[0])
+else
+   puts "usage:"
+   puts "   new-category \"category name\" <sequence-num>"
+   puts ""
+   puts "      * \"category name\" is required"
+   puts ""
+   puts "      * <sequence-num> is optional and if provided must be a number between 0 and 99"
+   exit 1
+end

@@ -1,0 +1,14 @@
+#!/usr/bin/ruby
+require "#{File.dirname(__FILE__)}/shared/util"
+if ARGV.length >0 && ARGV.length <=2
+   puts Util::getCanonicalFileSystemName(ARGV[0])
+   puts Util::getCanonicalTitle(ARGV[0])
+else
+   puts "usage:"
+   puts "   new-page \"page title\" <sequence-num>"
+   puts ""
+   puts "      * \"page title\" is required"
+   puts ""
+   puts "      * <sequence-num> is optional and if provided must be a number between 0 and 99"
+   exit 1
+end

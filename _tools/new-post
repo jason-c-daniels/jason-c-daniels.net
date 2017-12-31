@@ -1,0 +1,15 @@
+#!/usr/bin/ruby
+require "#{File.dirname(__FILE__)}/shared/util"
+
+if ARGV.length == 2
+   puts Util::getCanonicalFileSystemName(ARGV[0])
+   puts Util::getCanonicalTitle(ARGV[0])
+else
+   puts "usage:"
+   puts "   new-post \"post title\" \"category name\""
+   puts ""
+   puts "      * \"post title\" is required"
+   puts ""
+   puts "      * \"category name\" is required"
+   exit 1
+end

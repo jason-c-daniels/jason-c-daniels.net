@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A Test Post"
+title:  "SHORT-TITLE"
 date:   YYYY-MM-DD HH:MM:SS UTC-5  
-categories: Test post
+categories: CATEGORY
 ---
 
 ## Top level header
