@@ -1,55 +1,41 @@
 #!/usr/bin/ruby
 require "#{File.dirname(__FILE__)}/shared/util"
+require "#{File.dirname(__FILE__)}/shared/program"
 
-if ARGV.length == 2
-   site_dir=Util::getSiteDir
-   category=Util::getCanonicalFileSystemName(ARGV[0])
-   post_title=Util::getCanonicalTitle(ARGV[1])
-   post_file=Util::getCanonicalFileSystemName(ARGV[1])
-   post_def_tmpl_path="#{site_dir}/_templates/_category/_posts/_POST-TEMPLATE.md"
-   post_cat_tmpl_path="#{site_dir}/#{category}/_posts/_POST-TEMPLATE.md"
-   post_full_path="#{site_dir}/#{category}/_posts/UNPUBLISHED.#{post_file}.md"
+APP_VERSION="1.0.0-alpha"
+APP_NAME=File.basename(__FILE__)
+APP_USAGE="usage:
+      #{APP_NAME} \"category name\" \"post title\"
 
-   puts site_dir
-   puts category
-   puts post_def_tmpl_path
-   puts post_cat_tmpl_path
-   puts post_full_path
+      * \"category name\" - The name of the page-category this post belongs to. [required]
+                            If the category doesn't already exist, it will be created.
 
+      * \"post title\"    - The title of the post. [required]
 
-   require 'io/console' # Ruby 1.9
-   require 'abbrev'
-   
-   word = ""
-   
-   @completions = Abbrev.abbrev([
-      "function",
-      "begin"
-   ])
-   
-   while (char = $stdin.getch) != "\r"
-      word += char
-      word = "" if char == " "
-      if char == "\t"
-         if comp = @completions[word = word[0..-2]]
-            print comp[word.length..-1]
-         end
-      else
-         print char
-      end
+"
+
+class Application < Program::Application
+   def valid_args?
+      return ARGV.length ==2
    end
-   puts
-
-else
-   puts "usage:"
-   puts "   new-post \"category name\" \"post title\""
-   puts ""
-   puts "      * \"category name\" is required"
-   puts ""
-   puts "      * \"post title\" is required"
-   puts ""
-   puts ""
-   puts ""
-   puts ""
-   exit 1
+   def main
+      site_dir=Util::getSiteDir
+      category=Util::getCanonicalFileSystemName(ARGV[0])
+      post_title=Util::getCanonicalTitle(ARGV[1])
+      post_file=Util::getCanonicalFileSystemName(ARGV[1])
+      post_def_tmpl_path="#{site_dir}/_templates/_category/_posts/_POST-TEMPLATE.md"
+      post_cat_tmpl_path="#{site_dir}/#{category}/_posts/_POST-TEMPLATE.md"
+      post_full_path="#{site_dir}/#{category}/_posts/UNPUBLISHED.#{post_file}.md"
+   
+      puts site_dir
+      puts category
+      puts post_def_tmpl_path
+      puts post_cat_tmpl_path
+      puts post_full_path
+   
+      end
 end
+
+Application.new.execute
+
+
