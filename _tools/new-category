@@ -1,6 +1,7 @@
 #!/usr/bin/ruby
 require "#{File.dirname(__FILE__)}/shared/util"
 if ARGV.length >0 && ARGV.length <=2
+   site_dir=Util::getSiteDir
    puts Util::getCanonicalFileSystemName(ARGV[0])
    puts Util::getCanonicalTitle(ARGV[0])
 else

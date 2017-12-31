@@ -2,8 +2,44 @@
 require "#{File.dirname(__FILE__)}/shared/util"
 
 if ARGV.length == 2
-   puts Util::getCanonicalFileSystemName(ARGV[0])
-   puts Util::getCanonicalTitle(ARGV[0])
+   site_dir=Util::getSiteDir
+   category=Util::getCanonicalFileSystemName(ARGV[0])
+   post_title=Util::getCanonicalTitle(ARGV[1])
+   post_file=Util::getCanonicalFileSystemName(ARGV[1])
+   post_def_tmpl_path="#{site_dir}/_templates/_category/_posts/_POST-TEMPLATE.md"
+   post_cat_tmpl_path="#{site_dir}/#{category}/_posts/_POST-TEMPLATE.md"
+   post_full_path="#{site_dir}/#{category}/_posts/UNPUBLISHED.#{post_file}.md"
+
+   puts site_dir
+   puts category
+   puts post_def_tmpl_path
+   puts post_cat_tmpl_path
+   puts post_full_path
+
+
+   require 'io/console' # Ruby 1.9
+   require 'abbrev'
+   
+   word = ""
+   
+   @completions = Abbrev.abbrev([
+      "function",
+      "begin"
+   ])
+   
+   while (char = $stdin.getch) != "\r"
+      word += char
+      word = "" if char == " "
+      if char == "\t"
+         if comp = @completions[word = word[0..-2]]
+            print comp[word.length..-1]
+         end
+      else
+         print char
+      end
+   end
+   puts
+
 else
    puts "usage:"
    puts "   new-post \"category name\" \"post title\""
