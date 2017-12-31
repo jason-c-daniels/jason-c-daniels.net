@@ -8,6 +8,10 @@ Read the many fine tutorials online about how to do this. I used [this one](http
 - In the first run the 'run-local-site' script. Use chmod u+x if needed. This will serve the site.
 - In the second run the 'auto-build-site' script. Use chmod u+x if needed. This will automatically rebuild the site as you make changes.
 
+
+## Other scripts
+- If you will be creating your own scripts in this folder and want frequent access to these or other scripts in a terminal, run 'source _tools/set-env' in a terminal. From then on the executable scripts will always be in the path.
+
 ## Publishing
 - Since you cloned this repository with git all you need to do is commit and push your changes to your github account.
 - Navigate to your project in github, and watch it render the pages.
