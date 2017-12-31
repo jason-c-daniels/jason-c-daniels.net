@@ -10,5 +10,9 @@ else
    puts "      * \"page title\" is required"
    puts ""
    puts "      * <sequence-num> is optional and if provided must be a number between 0 and 99"
+   puts ""
+   puts ""
+   puts ""
+   puts ""
    exit 1
 end

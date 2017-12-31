@@ -6,10 +6,14 @@ if ARGV.length == 2
    puts Util::getCanonicalTitle(ARGV[0])
 else
    puts "usage:"
-   puts "   new-post \"post title\" \"category name\""
+   puts "   new-post \"category name\" \"post title\""
+   puts ""
+   puts "      * \"category name\" is required"
    puts ""
    puts "      * \"post title\" is required"
    puts ""
-   puts "      * \"category name\" is required"
+   puts ""
+   puts ""
+   puts ""
    exit 1
 end
