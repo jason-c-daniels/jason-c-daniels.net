@@ -12,7 +12,7 @@ a link to a running instance you can use.
 
 ## Fate Core Tools
 ### Fate Condensed Character Sheet
-This is a web-app implementation of the stock Fate Condensed that comes with the Fate Condensed PDF. (Also 
+This is a web-app implementation of the stock character sheet that comes with the Fate Condensed PDF. (Also 
 available as a separate download).
 
 You can find the source code at:
