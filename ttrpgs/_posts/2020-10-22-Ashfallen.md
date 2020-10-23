@@ -4,7 +4,7 @@ title:  "Ashfallen"
 date:   2020-10-22 00:00:00 UTC-5  
 categories: TTRPGs
 ---
-![The world of Ashfallen](/ttrpgs/maps/Ashfallen.jpg)
+![The world map of Ashfallen](/ttrpgs/maps/Ashfallen.jpg)
 
 Another random continent from Wonderdraft. No geopolitical boundaries have been defined (just yet.)
 

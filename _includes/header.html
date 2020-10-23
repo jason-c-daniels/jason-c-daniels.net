@@ -19,7 +19,9 @@
         {% assign sorted_pages = g.items | sort: "title" %}
         {% for p in sorted_pages %}
           {% if p.title %}
-            <a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+              {% unless p.show_in_nav == false %}
+                  <a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+              {% endunless %}
           {% endif %}
         {% endfor %}
       {% endfor %}
