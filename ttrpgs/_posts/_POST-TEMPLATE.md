@@ -1,31 +1,17 @@
 ---
 layout: post
-title:  "SHORT-TITLE"
-date:   YYYY-MM-DD HH:MM:SS UTC-5  
-categories: CATEGORY
+title:  "MAPNAME"
+date:   2020-10-22 00:00:00 UTC-5  
+categories: TTRPGs
 ---
+![Map of MAPNAME](/ttrpgs/maps/MAPNAME.jpg)
 
-## Top level header
+Another random continent from Wonderdraft. No geopolitical boundaries have been defined (just yet.)
 
-First paragraph.
+This is a MAP DESCRIPTION 
 
-### Second Level Header
+The image is sized to be printed, landscape, at 8.5 x 11 inches on a color printer.
+To view the full sized image right-click on the image and open it in a new tab or browser window.
 
-Second paragraph.
-
-
-#### Third Level Header
-
-A snippet if needed:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Link Friendly Name][link-ref] for more info on the link!
-
+All content, including images, Copyright (C) Jason C. Daniels
 [link-ref]: http://jason-c-daniels.net/
