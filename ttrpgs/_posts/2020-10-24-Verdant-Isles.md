@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Jason C. Daniels
 title:  "Verdant Isles"
 date:   2020-10-24 00:00:00 UTC-5  
 categories: TTRPGs

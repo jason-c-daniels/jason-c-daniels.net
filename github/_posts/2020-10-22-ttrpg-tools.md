@@ -1,8 +1,9 @@
 ---
 layout: post
+author: Jason C. Daniels
 title:  "TTRPG Tools"
 date:   2020-10-22 00:00:00 UTC-5
-updated: 2020-10-22 00:00:00 UTC-5
+updated: 2022-07-31 20:32:00 UTC-5
 categories: github
 ---
 ## Various TTRPG Tools

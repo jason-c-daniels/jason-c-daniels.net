@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Jason C. Daniels
 title:  "Caldera of Aithorn"
 date:   2020-10-25 00:00:00 UTC-5  
 categories: TTRPGs

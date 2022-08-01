@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
@@ -10,6 +10,7 @@
     <div class="page-content">
       <div class="wrapper">
         <h1>{{ page.title }}</h1>
+
         {% unless content == '' %}
           {{ content | markdownify }}
         {% endunless %}

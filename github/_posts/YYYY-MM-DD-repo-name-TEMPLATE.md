@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Jason C. Daniels
 title:  "Post Title"
 date:   YYYY-MM-DD 00:00:00 UTC-5  
 categories: github
@@ -16,6 +17,8 @@ You can find a copy running at: [this location](https://jason-c-daniels.github.i
 
 
 ## Tech Stack
-* *OS*: Linux Mint MATE, as a VirtualBox VM.
-* *Editing Software*: JetBrains Webstorm.
-* *Version Control*: the git command line.
+* *OS*: Debian 10 and Windows 10
+* *Programming Language*: FILL THIS IN
+* *Editing Software*: JetBrains Webstorm
+* *Tool(s)*: FILL THIS IN.
+* *Version Control*: the git command line and WebStorm IDE integration.
