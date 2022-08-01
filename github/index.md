@@ -1,6 +1,7 @@
 ---
 layout: category
-title:  "Github Projects"
+author: Jason C. Daniels
+title:  "GitHub Projects"
 category: github
 permalink: /github/
 ---

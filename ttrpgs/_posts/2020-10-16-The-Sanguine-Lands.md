@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Jason C. Daniels
 title:  "The Sanguine Lands"
 date:   2020-10-26 00:00:00 UTC-5  
 categories: TTRPGs

@@ -1,5 +1,6 @@
 ---
 layout: category
+author: Jason C. Daniels
 title:  "Table Top RPGs"
 category: TTRPGs
 permalink: /TTRPGs/

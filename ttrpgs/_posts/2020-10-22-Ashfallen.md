@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Jason C. Daniels
 title:  "Ashfallen"
 date:   2020-10-22 00:00:00 UTC-5  
 categories: TTRPGs
