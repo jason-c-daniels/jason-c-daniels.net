@@ -21,12 +21,11 @@ linkedin_username: jasondaniels55347
 #facebook_username:
 #dribbble_username:
 
-
 timezone: US/Central
 encoding: utf-8        #explicit encoding, to prevent future changes to jekyll from hosing us up.
 
 # Build settings
 markdown: kramdown
 
-plugins:
-  - jekyll-toc
+#plugins:
+#  - jekyll-toc
