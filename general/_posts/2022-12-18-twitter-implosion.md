@@ -2,8 +2,10 @@
 layout: post
 title:  "The 2022 Twitter Implosion"
 author: Jason C. Daniels
-date:   2022-12-18 00:00:00 UTC-5  
+date:   2022-12-18 21:45:00 UTC-5
+updated:  2022-12-19 05:42:00 UTC-5
 categories: general
+toc: true
 ---
 On October 27th 2022 Elon Musk took ownership of Twitter. He didn't want to,
 but the courts said "You have to, or you get to pay a large fine." 
@@ -15,28 +17,29 @@ in less than two months, wasting this purchase by destroying what value it had.
 <sup>*</sup> _$44 billion was about $30 billion more than Twitter was valued at at the time 
 of the offer. It was not a prudent offer to make._
 
-### The problems
+### The Problems
 
 His handling of it is as chaotic as it gets. He rewrites the rules, and creates havoc
 almost every single day either through what he's doing in his management attempts or
 by what he's tweeting.
 
 It manifests in some of the following ways:
-* Firing half the people, because. No really, there was no rhyme or reason to it.
+* Firing half the people, just because. _No really, there was no rhyme or reason to it._
 * Firing people who didn't swear their loyalty.
 * Rehiring some of those people, then firing them again.
 * Firing more people for... no apparent reason. (The Safety Team)
 * Taunting users, namely the press.
-* Tweeting out obvious neo-nazi dog whistles.
 * Making transphobic statements about his own child.
 * Letting literal neo-Nazis back on Twitter. (This was part of one tantrum.)
-* Running random, arbitrary polls that only serve to further destabilize things. 
-  (e.g. Should we let Trump back on?)
+* Tweeting out obvious neo-nazi dog whistles.
+* Running random, arbitrary polls about how to run Twitter, which only serve to further destabilize things. 
+  (e.g. Should we let Trump back on? Should I step down? ...etc.)
 * Lashing out any any perceived threat by banning:
   * Journalists critical of him.
-  * So-called "competing companies" which host links to articles 
-  critical of him. _(almost all social media)_
-  * The most popular link aggregators where people might link to their other social media accounts 
+  * Comedians who mocked him.
+  * ~~So-called "competing companies" which host links to articles 
+  critical of him. _(almost all social media)_~~ <sup>1</sup>
+  * ~~The most popular link aggregators where people might link to their other social media accounts.~~ <sup>1</sup>
   * ...etc. (I won't list them all.)
 * Ordering _Twitter Support_ and _Twitter Safety_ to change their metrics and rules to his whims, as well as to outright lie.
 * Taking the _Spaces_ feature offline because security was a little goofed up and most of that team was fired or quit 
@@ -47,7 +50,7 @@ And the list goes on, and on. I won't list every infraction, because there are s
 He's acting like a college frat-bro without a clue how to run a social
 media company.
 
-### What does this tell us?
+### What Does This Tell Us?
 
 One thing is clear: Musk cannot handle criticism nor sunlight, as evidenced by all
 the banning, and blocking of other social media. His constant claims of 
@@ -67,7 +70,7 @@ other companies. This should scare you.
 That is the million dollar question. Either he's extraordinarily incompetent, or he wants 
 this for some reason. It might be as simple as before his takeover, Twitter was a great place 
 for scientists and journalists to hold people in power accountable and he doesn't want that.
-Destroying Twitter would put a damper on that for a little while.
+Destroying Twitter would put a damper on that for a little while.<sup>2<sup>
 
 Generally the very rich and very powerful (which he is one of despite his behavior) do not like being held
 accountable. Furthermore in tech circles there is a very large amount of arrogance. This 
@@ -105,16 +108,27 @@ _What is certain is that letting billionaire man-babies own social media sites i
 ### Does He Even Care?
 No. He's been very up front about not giving two thoughts to how his actions impact others.
 He tries couching it in managerial doublespeak but the message is the same: 
-"I'm legally<sup>*</sup> allowed to do this. So, stop picking on me."
+"I'm legally<sup>3</sup> allowed to do this. So, stop picking on me."
 
 That's right, he cares more for being called a bad manager than if his behavior is causing
 problems. He cares so much so that he bans those who say it. (Those with large followings, 
 for now.)
 
-<sup>*</sup> The matter of legality he's thinking of is strictly within the USA. This is the 
-incorrect focus. Twitter is a company, that by its very nature does business internationally. 
-The EU has laws that prohibit blocking competing social media.  And since he's also crashing 
-Tesla stocks (which he leveraged to buy Twitter) he's likely running afoul of US laws too.
 
 Since his behavior bodes poorly for him, directly, it's very odd that he seems not to care.
 But that seems to be the case, given his behavior.
+
+### End Notes
+1. Mere minutes before I "clicked the publish button" Musk's team had removed the policy. This further 
+   underscores the volatility and chaos in his stay as owner. I chose not to re-edit the post until morning 
+   as it was my bedtime. On waking I decided an end not was more appropriate than removing the items.
+2. A replacement is all but inevitable. However, the odds are it won't be a drop-in, feature for
+   feature replacement. Rebuilding the professional, community, and personal networks will take time.
+3. The matter of legality he's thinking of is strictly within the USA. This is the
+   incorrect focus. Twitter is a company, that by its very nature does business internationally.
+   The EU has laws that prohibit blocking competing social media.  And since he's also crashing
+   Tesla stocks (which he leveraged to buy Twitter) he's likely running afoul of US laws too.
+
+### Change Log
+- **2022-12-18 21:45 (US Central)** - Initially posted.
+- **2022-12-19 05:42 (US Central)** - Added TOC. Added end notes. Moved an item to end notes. _Other minor changes._
