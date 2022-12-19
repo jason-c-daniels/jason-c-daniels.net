@@ -3,9 +3,8 @@ layout: post
 title:  "The 2022 Twitter Implosion"
 author: Jason C. Daniels
 date:   2022-12-18 21:45:00 UTC-5
-updated:  2022-12-19 05:42:00 UTC-5
+updated:  2022-12-19 06:22:00 UTC-5
 categories: general
-toc: true
 ---
 On October 27th 2022 Elon Musk took ownership of Twitter. He didn't want to,
 but the courts said "You have to, or you get to pay a large fine." 
@@ -131,3 +130,4 @@ But that seems to be the case, given his behavior.
 ### Change Log
 - **2022-12-18 21:45 (US Central)** - Initially posted.
 - **2022-12-19 05:42 (US Central)** - Added TOC. Added end notes. Moved an item to end notes. _Other minor changes._
+- **2022-12-19 06:22 (US Central)** - Removed TOC, jekyll plugin incompatible with _GitHub Pages._

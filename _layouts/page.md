@@ -15,9 +15,11 @@ layout: default
     </p>
   </header>
 
+<!--
   <div id="table-of-contents">
     {% toc %}
   </div>
+-->
   <div class="post-content">
     {{ content }}
   </div>
