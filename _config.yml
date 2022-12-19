@@ -26,6 +26,3 @@ encoding: utf-8        #explicit encoding, to prevent future changes to jekyll f
 
 # Build settings
 markdown: kramdown
-
-#plugins:
-#  - jekyll-toc
