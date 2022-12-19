@@ -1,9 +1,9 @@
 ---
 layout: post
-author: Jason C. Daniels
 title:  "SHORT-TITLE"
+author: Jason C. Daniels
 date:   YYYY-MM-DD HH:MM:SS UTC-5  
-categories: CATEGORY
+categories: general
 ---
 
 ## Top level header
