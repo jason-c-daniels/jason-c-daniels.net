@@ -9,8 +9,8 @@ order: 99
 ---
 
 I'm a disabled software engineer with various interests. One of my favorite interests is Table Top Role Playing Games, 
-(TTRPGs), second only to programming computers, my career.  I've enjoyed playing and making maps for settings since I 
-was a young boy of 11 years. (I'll be 51 as mid-August 2022.)
+(TTRPGs), second only to programming computers, my career. I've enjoyed playing TTRPGs and making maps for settings since I 
+was a young boy of 11 years. (I'm 51 as of mid-August 2022.)
 
 I also enjoy, and may or may not post about, cooking, container gardening, my pet gecko, electronics or other things
 as they strike my fancy. 
