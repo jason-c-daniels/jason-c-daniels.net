@@ -14,6 +14,14 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
+           {% if site.mastodon_username %}
+             <li>
+                <a href="https://dice.camp/{{ site.mastodon_username }}" rel="me">
+                    <i class="fa fa-mastodon"><span class="icon icon--mastodon">{% include icon-mastodon.svg %}</span></i> Mastodon (dice.camp)
+                </a>
+             </li>
+           {% endif %}
+
            {% if site.twitter_username %}
              <li>
                <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -53,6 +61,7 @@
                </a>
              </li>
            {% endif %}
+
            {% if site.dribbble_username %}
              <li>
              <a href="https://dribbble.com/{{ site.dribbble_username }}" class="icon">
