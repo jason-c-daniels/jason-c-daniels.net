@@ -114,20 +114,19 @@ That's right, he cares more for being called a bad manager than if his behavior 
 problems. He cares so much so that he bans those who say it. (Those with large followings, 
 for now.)
 
-
 Since his behavior bodes poorly for him, directly, it's very odd that he seems not to care.
 But that seems to be the case, given his behavior.
 
 ### End Notes
 1. Mere minutes before I "clicked the publish button" Musk's team had removed the policy. This further 
    underscores the volatility and chaos in his stay as owner. I chose not to re-edit the post until morning 
-   as it was my bedtime. On waking I decided an end not was more appropriate than removing the items.
+   as it was my bedtime. On waking I decided an end note was more appropriate than removing effected the items.
 2. A replacement is all but inevitable. However, the odds are it won't be a drop-in, feature for
    feature replacement. Rebuilding the professional, community, and personal networks will take time.
-3. The matter of legality he's thinking of is strictly within the USA. This is the
-   incorrect focus. Twitter is a company, that by its very nature does business internationally.
-   The EU has laws that prohibit blocking competing social media.  And since he's also crashing
-   Tesla stocks (which he leveraged to buy Twitter) he's likely running afoul of US laws too.
+3. The matter of legality he appears to be thinking of is strictly within the USA. This is the
+   incorrect focus. Twitter is a company, that by its very nature, does business internationally.
+   The EU has laws that prohibit blocking competing social media. And since he's also crashing
+   Tesla stocks, which he leveraged to buy Twitter, he's likely running afoul of US laws too.
 
 ### Change Log
 - **2022-12-18 21:45 (US Central)** - Initially posted.
