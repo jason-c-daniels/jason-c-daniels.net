@@ -16,6 +16,9 @@ layout: default
     </p>
   </header>
 
+  <div id="table-of-contents">
+    {% toc %}
+  </div>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>

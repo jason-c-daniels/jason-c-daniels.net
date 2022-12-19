@@ -7,7 +7,6 @@
 
 # Site settings
 title: Jason C Daniels.net
-#email: jason.c.daniels@gmail.com
 email:
 description: > # this means to ignore newlines until "baseurl:"
   This is my little home on the internet. I post about various subjects at infrequent times.
@@ -28,3 +27,6 @@ encoding: utf-8        #explicit encoding, to prevent future changes to jekyll f
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-toc
