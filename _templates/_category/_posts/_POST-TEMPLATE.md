@@ -29,4 +29,4 @@ print_hi('Tom')
 
 Check out the [Link Friendly Name][link-ref] for more info on the link!
 
-[link-ref]: http://jason-c-daniels.net/
+[link-ref]: https://jason-c-daniels.net/
