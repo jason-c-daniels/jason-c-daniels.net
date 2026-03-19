@@ -3,7 +3,7 @@ layout: post
 title:  "SHORT-TITLE"
 author: Jason C. Daniels
 date:   YYYY-MM-DD HH:MM:SS UTC-5  
-categories: general
+categories: music
 ---
 
 ## Top level header
