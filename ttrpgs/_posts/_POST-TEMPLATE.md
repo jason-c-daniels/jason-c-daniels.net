@@ -15,4 +15,4 @@ The image is sized to be printed, landscape, at 8.5 x 11 inches on a color print
 To view the full sized image right-click on the image and open it in a new tab or browser window.
 
 All content, including images, Copyright (C) Jason C. Daniels
-[link-ref]: http://jason-c-daniels.net/
+[link-ref]: https://jason-c-daniels.net/
