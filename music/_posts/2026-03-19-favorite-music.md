@@ -9,8 +9,12 @@ categories: [music, general]
 It's been four years since I posted. The past four years were... busy. I took up some new hobbies, acquired some new 
 medical issues and diagnoses, and generally got lost in all the busy-ness that comes with all of that. After some time 
 off of work doing physical therapy for my wrists, I'm back to a point where I can consider being on a computer more 
-frequently. And in recent months I've been politely needled for not stating strong favorites. This got me thinking about 
-why, and how I can convey my thoughts about this relative to music. So, I put together a favorites list, after a fashion.
+frequently. And in recent months I've been politely needled for not stating strong favorites. 
+
+This combination of things got me considering how to combine things. After all I do need to periodically see how well my
+wrists handle the rigors of hours of typing. And I need to ease my way back into tech. And I wanted to give people insights
+into personally important Genres, Albums and songs. And it seemed that by explaining the importance of each on my personal
+blog would do all of the above.
 
 ## About This List
 
@@ -225,25 +229,3 @@ _For example, "New Coat of Paint", a very bluesy song, is playing as I write thi
 
 4. _Trash It Up_. This is an honorable mention. It's another song about indulgence. This one rejects prim and proper style and behavior (a major social taboo at the time) where the narrator is basically telling his lover that they should "Trash It Up." It's far more rock adjacent than most of the other songs. And it's not just about how they'll dress in public. Fredericks of Hollywood lingerie is named in one of the refrains. It's got both a raw, yet somewhat subdued feel that just speaks to me. And it's clearly indulging in the "promise of what is to come," should they choose to _Trash It Up_.
 
-## Why Write Did I Write This?
-
-Over the years I've been needled for not having "favorites." Most of the time people mean "a song, album or genre you
-will prefer to most others, most of the time." Some folks even get antsy if your preferred music changes with time. Yet,
-my tastes and fondness for specific songs and albums varies over time, somewhat cyclically. This is because it defies
-expectations -- the willingness to play the lying game and make bold proclamations we all know just aren't true.
-
-Why do I say that? Everyone who I've gotten to know, who has done this to me, eventually reveals, they too have tastes
-that vary with time and are even cyclic. But they're not passionate about music, so they just wanted a simple answer.
-And, when asked about their own passions, they don't give the simple unnuanced answer. Music is a passion of mine.
-So I don't give the unnuanced answers either. Sometimes I even tell people they're asking me to choose among my babies.
-That's hyperbole, to be sure. But it helps drive home the point.
-
-And, with all of that said, there are some albums and songs that have really stuck with me over the years. And every
-album I own, is one that I am currently, or was at one time, extremely fond of. If it's one I _was_ extremely fond of,
-it will be one I'm very fond of again. And discussing music is a way to get to know someone.
-
-So, to help answer the questions that always follow from "well pick one, in this genre," I picked some genres and
-one album per genre and three to four songs from the album to dig into. Concept albums and multipart story-songs, were 
-exempted as stating a single track and singularly great ignores that the full story/album context gives the song it's 
-total appeal. To me this is like trying to divorce a chapter from a book. From what I've seen: sometimes it works; 
-usually it doesn't.
