@@ -3,6 +3,7 @@ layout: post
 title:  "My Favorite Music (Sort of)"
 author: Jason C. Daniels
 date:   2026-03-19 10:35:00 UTC-5
+updated: 2026-03-21 16:52:00 UTC-5
 categories: [music, general]
 ---
 
@@ -97,7 +98,7 @@ I'll cover.
 
 As I found out in listening to the rest of the album, there were far more interesting tracks to indulge in.
 And the track sequence/overall album composition helps drive home larger messages. Sadly my love affair with my tape 
-was cute short when my boom box destroyed the tape, two years later. It would be around a decade before I replaced it 
+was cut short when my boom box destroyed the tape, two years later. It would be around a decade before I replaced it 
 with a CD. Since, it's often been in my rotation. Like other albums, all the songs on this album are dear to me.
 
 #### Three Songs that Still Capture My Attention  
@@ -106,10 +107,14 @@ with a CD. Since, it's often been in my rotation. Like other albums, all the son
 anatomy (Turned erection blue) were both lyrical firsts for me. Coupled with the fact that the people Cobain sings about 
 _"Don't know what it means"_ hit me in a way that few songs have. While very directly about Nirvana's superficial fans 
 who (even today) don't bother to look beneath the surface of the lyrics, it brought about a certain intriguing unease in
-me. I'd not yet recognized that most people (often superficial fans) process the world very differently than I do. So I
+me.
+
+   I'd not yet recognized that most people (often superficial fans) process the world very differently than I do. So I
 always felt like I was missing something. This song opened my eyes to the fact that most people don't see the world like 
-me, not even Cobain. That I would miss things because of all the social shorthand I have no access to. But also, that 
-these people, will miss things I have insights to. While Cobain's words are a bit derisive, I took away very different
+me, not even Cobain, that I would miss things because of all the social shorthand I have no access to. But also, that 
+these people, will miss things I have insights to.
+
+   While Cobain's words are a bit derisive, I took away very different
 message versus the superficial one in the lyrics, and it serves as a corollary to the one in _Come As You Are_: 
 "Just do your best and accept others while trying to look at things from others perspectives." However, it would take 
 me many years to be able to put it into words, this being the first time I've ever written those words.
@@ -118,7 +123,8 @@ me many years to be able to put it into words, this being the first time I've ev
 I owned the album. And when I finally paid attention it reached me in a way that _Smells Like Teen Spirit_ didn't. While
 many have speculated that the song is purely about Heroin, a problem for Cobain, I never fully bought in. There are too
 many other allusions. And for me the song has always been about the very simple message in the song's title: "Come As You Are."
-For an awkward late teens, early 20s kid, this was a potent message. Given all the other differences in how I process the
+
+   For an awkward late teens, early 20s kid, this was a potent message. Given all the other differences in how I process the
 world I'd encounter on my journey, this message helped keep me somewhat grounded as well as being as accepting of others
 as I can. I wish I could say I had the success I'd later find in Cobain's quote about one lyric, _"And I Swear, that I don't have a gun."_
 His intent was to tell people there's enough room for everyone, no matter how broken they feel. And his lyrics weren't 
@@ -128,7 +134,7 @@ That's why we should all just _come as we are_. And do our best.
 3. _Something in the Way_. This song hooked me from the word go. And it breaks from many musical norms. The lyrics are a
 droning bit of almost nonsensical metaphor couched as someone living under a bridge and occupying their time with 
 various thoughts. The subdued, tension building, delivery of the lyrics and accompanying music give the 
-sensation that (to use a very US-centric idiom) "the other shoe is about to drop" at any moment." Yet the only relief 
+sensation that (to use a very US-centric idiom) "the other shoe is about to drop, at any moment." Yet the only relief 
 from the building tension is the end of the song and album. (Ignoring the hidden track).
 
    At that point in my life "something" was building. Yet I couldn't quite see it. I'd not yet fully learned a skill that 
